@@ -11,7 +11,7 @@
         <scala.version>${scala.major.version}.10</scala.version>
         <maven-shade-plugin.version>3.2.1</maven-shade-plugin.version>
 
-        <akka.version>2.6.19</akka.version>
+        <akka.version>2.7.0</akka.version>
         <akka-http.version>10.5.0</akka-http.version>
 
         <slf4j.version>2.0.5</slf4j.version>

@@ -1,4 +1,4 @@
-package org.esgi.project.streaming.models
+package org.esgi.project.streaming.models.visits
 
 import play.api.libs.json.{Json, OFormat}
 
